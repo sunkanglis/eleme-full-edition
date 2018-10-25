@@ -1,0 +1,155 @@
+
+.indent-container {
+    .indent-header{
+        width: 100%;
+        height: 1.173333rem;
+        position: relative;
+        background-image: linear-gradient(90deg,#0af,#0085ff);
+        text-align: center;
+        line-height: 1.173333rem;
+        span{
+            font-weight: 700;
+            font-size: .466667rem;
+            color: #fff;
+        }
+        img{
+            position: absolute;
+            width: .266667rem;
+            height: .466667rem;
+            top: .346667rem;
+            left: .266667rem;
+        }
+    }
+    .indent-main{
+        background-color: #f5f5f5;
+        width: 100%;
+        min-height: 15.28rem;
+        text-align: center;
+        padding-top: 2.666667rem;
+        .logo{
+            width: 5.333333rem;
+            height: 3.851733rem;
+        }
+        h3{
+            margin: .266667rem 0 .366667rem;
+            color: #6a6a6a;
+            font-weight: 400;
+            font-size: .453333rem;
+        }
+        .limited{
+            color: #999;
+            svg{
+                width: 15px;
+                height: 15px;
+                transform: rotate(90deg);
+            }
+        }
+    }
+}
+#indent-list{
+    list-style: none;
+    width: 100%;
+    .indent-list--li{
+        box-sizing: border-box;
+        width: 100%;
+        padding: .373333rem 0 0 .4rem;
+        height: 2.853333rem;
+        margin-top: .266667rem;
+        background: #fff;
+        display: flex;
+        justify-content: space-between;
+        .li-left{
+            width: 1.12rem;
+            height: 100%;
+            img{
+                width: .853333rem;
+                height: .853333rem;
+                float: left;
+            }
+        }
+        .li-right{
+            flex-grow: 1;
+            width: 8.133333rem;
+            height: 100%;
+            .li-right--up{
+                display: flex;
+                justify-content: space-between;
+                height: 1.266667rem;
+                padding: 0 .346667rem .266667rem 0;
+                border-bottom: 1px solid #eee;
+                .li-right--up-left{
+                    p:nth-of-type(1){
+                        text-align: left;
+                        display: flex;
+                        align-items: baseline;
+                        span{
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            display: inline-block;
+                            width: 4.266667rem;
+                            font-size: .426667rem;
+                            line-height: .64rem;
+                            color: #333;
+                        }
+                        svg{
+                            margin-left: .133333rem;
+                            width: .133333rem;
+                            height: .186667rem;
+                            color: #333;
+                        }
+                    }
+                    p:nth-of-type(2){
+                        text-align: left;
+                        font-size: .293333rem;
+                        color: #999;
+                        font-weight: 400;
+                    }
+                }
+                .li-right--up-right{
+                    width: 1.733333rem;
+                    text-align: center;
+                    line-height: .64rem;
+                    color: #333;
+                    font-size: .346667rem;
+                }
+            }
+            .li-right--down{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                width: 100%;
+                height: 1.2rem;
+                padding-right:.346667rem;
+                .li-right--down-left{
+                    width: 4.266667rem;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    font-size: .346667rem;
+                    color: #666;
+                    text-align: left;
+                }
+                .li-right--down-right{
+                    font-size: .346667rem;
+                    color: #333;
+                    font-weight: 700;
+                    
+                }
+            }
+        }
+    }
+}
+.indent-loading{
+    width: 100%;
+    height: 1.066667rem;
+    display: flex;
+    visibility: hidden;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.333333rem;
+    img{
+        width: .666667rem;
+        height: 50px;
+    }
+}

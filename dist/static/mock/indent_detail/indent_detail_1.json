@@ -1,0 +1,68 @@
+{
+    "address": "山东理工大学西校学生公寓六号楼524宿舍",
+    "basket": {
+        "abandoned_extra": [],
+        "conditional_extra": [],
+        "extra": [
+            {
+                "category_id": 12,
+                "name": "在线支付立减优惠",
+                "price": -2,
+                "quantity": 1
+            }
+        ],
+        "group": [
+            [
+                {
+                    "attrs": [],
+                    "image_hash": "0/4c/9b5ccdb6cf25972caaea8d9eb4676jpeg.jpeg",
+                    "ingredient_items": [],
+                    "name": "青菜+豆制品+鱼丸肉类5种+面",
+                    "new_specs": [],
+                    "price": 12,
+                    "quantity": 1,
+                    "specs": []
+                }
+            ]
+        ],
+        "package_group": [],
+        "packing_fee": {
+            "category_id": 102,
+            "name": "餐盒",
+            "price": 1,
+            "quantity": 1
+        },
+        "pindan_map": [],
+        "tying_group": []
+    },
+    "consignee": "马现文(先生)",
+    "deliver_time": "尽快送达",
+    "description": "",
+    "formatted_created_at": "2018-07-14 17:36",
+    "id": 1222689750911270093,
+    "invoice": "",
+    "invoice_scheme": "",
+    "is_book": 0,
+    "is_cancel_tableware": 0,
+    "is_new_restaurant": 0,
+    "is_ninja": 0,
+    "is_online_paid": 1,
+    "is_pindan": 0,
+    "new_retail_shop_id": 0,
+    "order_type": 0,
+    "pay_method": "在线支付",
+    "phone": "",
+    "pick_up_code": "",
+    "pick_up_time": "",
+    "rebuy_scheme": "eleme://catering?restaurant_id=1074344",
+    "restaurant_address": "亿丰",
+    "restaurant_id": 1074344,
+    "restaurant_image_hash": "9/f6/052e60a4370811f4e6f0767a5b353jpeg.jpeg",
+    "restaurant_mobile": "",
+    "restaurant_name": "骨汤麻辣烫麻辣拌(亿丰店)",
+    "restaurant_phone": "13668636693",
+    "restaurant_type": 0,
+    "scheme": "eleme://catering?restaurant_id=1074344",
+    "show_liangpiao_remind": 0,
+    "total_amount": 11
+}

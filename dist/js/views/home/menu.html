@@ -1,0 +1,66 @@
+
+<div class="menu">
+    <nav class="menu-header">
+        <img src="http://fuss10.elemecdn.com/{{menu_data.rst.shop_sign.image_hash}}?imageMogr/format/webp/thumbnail/750x/" alt="">
+        <img class='callback' src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIzMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE2LjU1MiA1LjYzM0wxNC41MDggMy41OSAyLjI0MyAxNS44NTMgMTQuNTA4IDI4LjQxbDIuMDQ0LTIuMDQzLTEwLjIyLTEwLjUxM3oiLz48L3N2Zz4=">
+        <img src="//fuss10.elemecdn.com/{{menu_data.rst.image_path}}?imageMogr/format/webp/thumbnail/150x/">
+        <span>品牌</span>
+    </nav>
+    <div class="menu-logo">
+        <h2>
+            <span>{{menu_data.rst.name}}</span>
+            <i></i>
+        </h2>
+        <div class="commit">
+            <span>评价{{menu_data.rst.rating}}</span>
+            <span>月售{{menu_data.rst.recent_order_num}}单</span>
+            <span>商家配送<span>约{{menu_data.rst.order_lead_time}}分钟</span></span>
+        </div>
+        <div class="manjian">
+            <span>满减</span>
+            <span>{{menu_data.rst.activities.0.description}}</span>
+            <span>{{menu_data.rst.activities.length}}个优惠</span>
+        </div>
+        <p class="index-TmrYy">
+                {{menu_data.rst.promotion_info}}
+        </p>
+    </div>
+    <div class="nav">
+        <ul>
+            <li><a href="javascript:void(0)" class="active">点餐</a></li>
+            <li><a href="javascript:void(0)">评价</a></li>
+            <li><a href="javascript:void(0)">商家</a></li>
+        </ul>
+    </div>
+    <div class="menu-main">
+        <div class="left">
+            <ul>
+                {{#each menu_data.menu}}
+                <li>{{name}}</li>
+                {{/each}}
+            </ul>
+        </div>
+        <div class="right">
+            <ul>
+                {{#each menu_data.menu}}
+                {{#each foods}}
+                <li>
+                    <div class="left">
+                        <img src="http://fuss10.elemecdn.com/{{image_path}}?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/" alt="">
+                    </div>
+                    <div class="right">
+                        <span class="span01">{{name}}</span>
+                        <p>{{description}}</p>
+                        <p><span>月售{{limitation.month_scales}}份</span><span>好评率{{satisfy_rate}}%</span></p>
+                        <p>
+                            <span>￥<i>{{specfoods.0.price}}</i>起</span>
+                            <span>+</span>
+                        </p>
+                    </div>
+                </li>
+                {{/each}}
+                {{/each}}
+            </ul>
+        </div>
+    </div>
+</div>

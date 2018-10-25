@@ -1,0 +1,110 @@
+
+<!-- home 视图 -->
+<div class="home-container">
+
+    <header class="header">
+        <div class="header-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 31" class="header-item__logo"><path fill="#FFF" fill-rule="evenodd" d="M22.116 22.601c-2.329 2.804-7.669 7.827-7.669 7.827-.799.762-2.094.763-2.897-.008 0 0-5.26-4.97-7.643-7.796C1.524 19.8 0 16.89 0 13.194 0 5.908 5.82 0 13 0s13 5.907 13 13.195c0 3.682-1.554 6.602-3.884 9.406zM18 13a5 5 0 1 0-10 0 5 5 0 0 0 10 0z"></path></svg>
+            <span class="header-item__location">{{city}}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 8" class="header-item__drop"><path fill="#FFF" fill-rule="evenodd" d="M5.588 6.588c.78.78 2.04.784 2.824 0l5.176-5.176c.78-.78.517-1.412-.582-1.412H.994C-.107 0-.372.628.412 1.412l5.176 5.176z"></path></svg>
+        </div>
+    </header>
+    <div class="search">
+        <a href="#" class="search-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-opacity=".38" d="M14.778 13.732a.739.739 0 1 1-1.056 1.036l-2.515-2.565a.864.864 0 0 1-.01-1.206 4.894 4.894 0 0 0 1.357-3.651c-.126-2.492-2.156-4.52-4.648-4.647a4.911 4.911 0 0 0-5.16 5.163c.126 2.475 2.13 4.496 4.605 4.642.451.026.896-.008 1.326-.1a.739.739 0 0 1 .308 1.446c-.56.12-1.137.164-1.72.13-3.227-.19-5.83-2.815-5.995-6.042a6.39 6.39 0 0 1 6.71-6.715c3.25.165 5.884 2.8 6.05 6.048a6.37 6.37 0 0 1-1.374 4.3l2.12 2.161z"></path></svg>
+            <span>搜索饿了么商家、商品名称</span>
+        </a>
+    </div>
+    <div class="slide">
+        <div class="swiper-container" id="swiper_entry">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide swiper-slide_first">
+                    
+                </div>
+                <div class="swiper-slide">
+                    <a href="#" class="slide-item">
+                        <img src="https://fuss10.elemecdn.com/a/8a/ec21096d528b7cfd23cdd894f01c6jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/"
+                            alt="">
+                        <span class="title">地方菜系</span>
+                    </a>
+                    <a href="#" class="slide-item">
+                        <img src="https://fuss10.elemecdn.com/e/c7/b7ba9547aa700bd20d0420e1794a8jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/"
+                            alt="">
+                        <span class="title">麻辣烫</span>
+                    </a>
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+    <div class="activity">
+        <section class="section">
+            <div class="activity-item">
+                <h3>品质套餐</h3>
+                <p>搭配齐全吃得好</p>
+                <span>立即抢购 ></span>
+                <img src="https://fuss10.elemecdn.com/d/d4/16ff085900d62b8d60fa7e9c6b65dpng.png?imageMogr/format/webp/thumbnail/!240x160r/gravity/Center/crop/240x160/">
+            </div>
+            <div class="activity-item">
+                    <h3>限量抢购</h3>
+                    <p>超值美味9.9元起</p>
+                    <span><i>2571人</i>正在抢 ></span>
+                    <img src="https://fuss10.elemecdn.com/b/e1/0fa0ed514c093a7138b0b9a50d61fpng.png?imageMogr/format/webp/thumbnail/!240x160r/gravity/Center/crop/240x160/">
+                </div>
+        </section>
+        <div class="banner">
+            <div class="swiper-container" id="swiper_banner">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="https://fuss10.elemecdn.com/0/8e/4c868669517697e5ce9f97eb8335ajpeg.jpeg?imageMogr/format/webp/thumbnail/568x/"
+                            alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="https://fuss10.elemecdn.com/c/52/56e250cdb5707ee9f4626330bcba4jpeg.jpeg?imageMogr/format/webp/thumbnail/568x/"
+                            alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="https://fuss10.elemecdn.com/d/c9/4f49375dcaf53b151616e49c85a31jpeg.jpeg?imageMogr/format/webp/thumbnail/568x/"
+                            alt="">
+                    </div>
+                    
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination"></div>
+            
+            </div>
+        </div>
+    </div>
+    <div class="filter">
+        <a href="#">
+            综合排序
+            <svg data-v-a5cc4024="" viewBox="0 0 72 32" class="dropdown-icon"><path data-v-a5cc4024="" d="M36 32l36-32h-72z"></path></svg>
+        </a>
+        <a href="#">
+            距离最近
+        </a>
+        <a href="#">
+            品质联盟
+        </a>
+        <a href="#">筛选
+            <svg data-v-a5cc4024="" class="filter-nav-more__icon"><use data-v-a5cc4024="" xlink:href="#more-filter"><svg viewBox="0 0 26 26" id="more-filter" width="100%" height="100%"><path d="M9.001 15.009V23a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-7.981l7.788-10.01a1 1 0 0 0-1.578-1.228l-8 10.28a1 1 0 0 0-.21.615V22h-4v-7.324a1 1 0 0 0-.2-.6L4.001 5h14a1 1 0 0 0 0-2H2a1 1 0 0 0-.8 1.6L9 15.009z"></path></svg></use></svg>
+        </a>
+    </div>
+    <ul class="shoplist">
+        <div class="loading">
+            <img src="http://img.lanrentuku.com/img/allimg/1212/5-121204193R0.gif" alt="LOADING">
+            <span>正在加载</span>
+        </div>
+    </ul>
+
+    <div class="home_nav">
+        <div class="cart border">
+            <svg viewBox="0 0 128 128" width="100%" height="100%"><path fill="#000" fill-opacity=".54" fill-rule="evenodd" d="M26.846 93.189A4.002 4.002 0 0 0 30.666 96h49.747c14.822 0 27.521-10.599 30.17-25.18l6.686-36.774a4 4 0 0 0-3.936-4.715H41.34a4 4 0 1 0 0 8h67.202l-5.828 32.058C100.754 80.166 91.368 88 80.413 88H34.13l-8.848-61.935a4 4 0 0 0-.463-1.377l-6.667-12a4 4 0 1 0-6.993 3.885l6.308 11.354 9.229 64.602c.032.228.083.448.151.66zm2.487 17.478A6.666 6.666 0 0 1 36 104a6.666 6.666 0 0 1 6.667 6.667A6.666 6.666 0 0 1 36 117.333a6.666 6.666 0 0 1-6.667-6.666zm56 0A6.666 6.666 0 0 1 92 104a6.666 6.666 0 0 1 6.667 6.667A6.666 6.666 0 0 1 92 117.333a6.666 6.666 0 0 1-6.667-6.666z"></path></svg>
+        </div>
+        <div class="BackTop-wrapper border">
+            <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCAxMSkiIGZpbGw9IiM5OTkiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PHJlY3QgeD0iMi4yMzkiIHdpZHRoPSI5OC41MjIiIGhlaWdodD0iOC45MTciIHJ4PSI0LjQ1OCIvPjxyZWN0IHRyYW5zZm9ybT0icm90YXRlKDkwIDUxLjUgNjIuNDE3KSIgeD0iNi43MTciIHk9IjU3Ljk1OCIgd2lkdGg9Ijg5LjU2NSIgaGVpZ2h0PSI4LjkxNyIgcng9IjQuNDU4Ii8+PHJlY3QgdHJhbnNmb3JtPSJzY2FsZSgtMSAxKSByb3RhdGUoNDUgMCAtMjUuNzU3KSIgeD0iLTYuNjcxIiB5PSI0MC4xNzEiIHdpZHRoPSI3MS42NTIiIGhlaWdodD0iOC45MTciIHJ4PSI0LjQ1OCIvPjxyZWN0IHRyYW5zZm9ybT0icm90YXRlKDQ1IDczLjkzOCA0NC42MykiIHg9IjM4LjExMiIgeT0iNDAuMTcxIiB3aWR0aD0iNzEuNjUyIiBoZWlnaHQ9IjguOTE3IiByeD0iNC40NTgiLz48L2c+PC9zdmc+" alt="">
+        </div>
+    </div>
+    
+</div>

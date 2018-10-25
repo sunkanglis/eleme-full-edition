@@ -1,0 +1,9 @@
+{
+    "/api/job/list_time": "/list",
+
+    "/api/entry/entry_list" : "/entry_list",
+
+    "/api/entry/indent_list" : "/indent_list",
+
+    "/api/entry/menu" : "/menu"
+}

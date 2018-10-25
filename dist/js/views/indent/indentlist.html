@@ -1,0 +1,31 @@
+{{#each indentlist}}
+<li class='indent-list--li' path="{{path}}">
+        <div class="li-left">
+            <img src="https://fuss10.elemecdn.com/{{restaurant_image_hash}}?imageMogr/format/webp/thumbnail/!64x64r/gravity/Center/crop/64x64/">
+        </div>
+        <div class="li-right">
+            <div class="li-right--up">
+                <div class="li-right--up-left">
+                    <p>
+                        <span>{{restaurant_name}}</span>
+                        <svg viewBox="0 0 547 987" width="100%" height="100%"><path fill="#999" fill-rule="evenodd" d="M0 931.973l51.2 54.613 494.933-494.933L51.2.133 0 51.333l440.32 440.32L0 931.973z"></path></svg>
+                    </p>
+                    <p>
+                        <span>{{formatted_created_at}}</span>
+                    </p>
+                </div>
+                <div class="li-right--up-right">
+                    {{status_bar.title}}
+                </div>
+            </div>
+            <div class="li-right--down">
+                <div class="li-right--down-left">
+                    {{basket.group.0.0.name}}
+                </div>
+                <div class="li-right--down-right">
+                    ￥{{total_amount}}
+                </div>
+            </div>
+        </div>
+    </li>
+    {{/each}}

@@ -1,0 +1,112 @@
+{
+    "address": "山东理工大学西校学生公寓六号楼524宿舍",
+    "basket": {
+        "abandoned_extra": [],
+        "conditional_extra": [],
+        "deliver_fee": {
+            "category_id": 2,
+            "name": "配送费",
+            "price": 1,
+            "quantity": 1
+        },
+        "extra": [
+            {
+                "category_id": 12,
+                "name": "在线支付立减优惠",
+                "price": -16,
+                "quantity": 1
+            },
+            {
+                "category_id": 15,
+                "icon": {
+                    "icon_color": "ff7239",
+                    "icon_hash": "",
+                    "icon_name": "红"
+                },
+                "name": "店铺红包",
+                "price": -4.7,
+                "quantity": 1
+            }
+        ],
+        "group": [
+            [
+                {
+                    "attrs": [],
+                    "image_hash": "21311fda3fe960729b6d88960a8f5a6djpeg",
+                    "ingredient_items": [],
+                    "name": "鸡腿煲中煲-微辣",
+                    "new_specs": [
+                        {
+                            "name": "规格",
+                            "value": "微辣"
+                        }
+                    ],
+                    "price": 32,
+                    "quantity": 1,
+                    "specs": [
+                        "微辣"
+                    ]
+                },
+                {
+                    "attrs": [],
+                    "image_hash": "57bd53ece5aad1ab9c64cdf65f0898e5jpeg",
+                    "ingredient_items": [],
+                    "name": "米饭",
+                    "new_specs": [],
+                    "price": 1,
+                    "quantity": 2,
+                    "specs": []
+                },
+                {
+                    "attrs": [],
+                    "image_hash": "86681050b86739ae7bf5e10064862976jpeg",
+                    "ingredient_items": [],
+                    "name": "三鲜伊面",
+                    "new_specs": [],
+                    "price": 3,
+                    "quantity": 2,
+                    "specs": []
+                }
+            ]
+        ],
+        "package_group": [],
+        "packing_fee": {
+            "category_id": 102,
+            "name": "餐盒",
+            "price": 3,
+            "quantity": 1
+        },
+        "pindan_map": [],
+        "tying_group": []
+    },
+    "consignee": "马现文(先生)",
+    "deliver_time": "尽快送达",
+    "description": "",
+    "formatted_created_at": "2018-06-28 18:25",
+    "id": 1221896859439840335,
+    "invoice": "",
+    "invoice_scheme": "",
+    "is_book": 0,
+    "is_cancel_tableware": 0,
+    "is_new_restaurant": 0,
+    "is_ninja": 0,
+    "is_online_paid": 1,
+    "is_pindan": 0,
+    "new_retail_shop_id": 0,
+    "order_type": 0,
+    "pay_method": "在线支付",
+    "phone": "",
+    "pick_up_code": "",
+    "pick_up_time": "",
+    "rebuy_scheme": "eleme://catering?restaurant_id=1081674",
+    "restaurant_address": "张店区义乌小商品城华光路268号_17",
+    "restaurant_id": 1081674,
+    "restaurant_image_hash": "b/0e/b833d0e58a3f43544ed7920e17b68png.png",
+    "restaurant_mobile": "",
+    "restaurant_name": "煲千福重庆鸡公煲",
+    "restaurant_phone": "15069322993",
+    "restaurant_type": 0,
+    "scheme": "eleme://catering?restaurant_id=1081674",
+    "show_liangpiao_remind": 0,
+    "total_amount": 23.3
+}

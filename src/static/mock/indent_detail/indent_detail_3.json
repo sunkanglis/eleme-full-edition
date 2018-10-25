@@ -1,0 +1,68 @@
+{
+    "address": "山东理工大学西校学生公寓六号楼524宿舍",
+    "basket": {
+        "abandoned_extra": [],
+        "conditional_extra": [],
+        "deliver_fee": {
+            "category_id": 2,
+            "name": "配送费",
+            "price": 1,
+            "quantity": 1
+        },
+        "extra": [
+            {
+                "category_id": 200,
+                "name": "限量抢购-9.9元夜宵",
+                "price": -12.1,
+                "quantity": 1
+            }
+        ],
+        "group": [
+            [
+                {
+                    "attrs": [],
+                    "image_hash": "c402939b33fb05c3d1f3508e55e22a68jpeg",
+                    "ingredient_items": [],
+                    "name": "香辣鸡腿堡＋鸡肉卷＋火山石烤肠",
+                    "new_specs": [],
+                    "price": 22,
+                    "quantity": 1,
+                    "specs": []
+                }
+            ]
+        ],
+        "package_group": [],
+        "pindan_map": [],
+        "tying_group": []
+    },
+    "consignee": "马现文(先生)",
+    "deliver_time": "尽快送达",
+    "description": "",
+    "formatted_created_at": "2018-06-30 10:48",
+    "id": 1221996247566760996,
+    "invoice": "",
+    "invoice_scheme": "",
+    "is_book": 0,
+    "is_cancel_tableware": 0,
+    "is_new_restaurant": 0,
+    "is_ninja": 0,
+    "is_online_paid": 1,
+    "is_pindan": 0,
+    "new_retail_shop_id": 0,
+    "order_type": 0,
+    "pay_method": "在线支付",
+    "phone": "",
+    "pick_up_code": "",
+    "pick_up_time": "",
+    "rebuy_scheme": "eleme://catering?restaurant_id=2298255",
+    "restaurant_address": "山东省淄博市张店区花光路与重庆路200米西九路小吃街营业商铺B15号",
+    "restaurant_id": 2298255,
+    "restaurant_image_hash": "8/54/c74b2abd43826290fa064e5ba08b9jpeg.jpeg",
+    "restaurant_mobile": "",
+    "restaurant_name": "羽汐汉堡店",
+    "restaurant_phone": "8618111",
+    "restaurant_type": 0,
+    "scheme": "eleme://catering?restaurant_id=2298255",
+    "show_liangpiao_remind": 0,
+    "total_amount": 10.9
+}

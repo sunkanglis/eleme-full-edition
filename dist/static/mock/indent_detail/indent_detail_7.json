@@ -1,0 +1,62 @@
+{
+    "address": "山东理工大学西校学生公寓六号楼524宿舍",
+    "basket": {
+        "abandoned_extra": [],
+        "conditional_extra": [],
+        "extra": [
+            {
+                "category_id": 11,
+                "name": "单品定价",
+                "price": -3.12,
+                "quantity": 1
+            }
+        ],
+        "group": [
+            [
+                {
+                    "attrs": [],
+                    "image_hash": "c8b02406b085c18ec3d76d511731e5cejpeg",
+                    "ingredient_items": [],
+                    "name": "+10.8元韭菜肉煎饺中份20个",
+                    "new_specs": [],
+                    "price": 14,
+                    "quantity": 1,
+                    "specs": []
+                }
+            ]
+        ],
+        "package_group": [],
+        "pindan_map": [],
+        "tying_group": []
+    },
+    "consignee": "马现文(先生)",
+    "deliver_time": "尽快送达",
+    "description": "",
+    "formatted_created_at": "2018-06-14 11:01",
+    "id": 1221191206664649932,
+    "invoice": "",
+    "invoice_scheme": "",
+    "is_book": 0,
+    "is_cancel_tableware": 0,
+    "is_new_restaurant": 0,
+    "is_ninja": 0,
+    "is_online_paid": 1,
+    "is_pindan": 0,
+    "new_retail_shop_id": 0,
+    "order_type": 0,
+    "pay_method": "在线支付",
+    "phone": "",
+    "pick_up_code": "",
+    "pick_up_time": "",
+    "rebuy_scheme": "eleme://catering?restaurant_id=163013038",
+    "restaurant_address": "新村西路227号世源大厦负一层南数4号",
+    "restaurant_id": 163013038,
+    "restaurant_image_hash": "4/5c/66eea6c9dca92b7fb570b682dd765jpeg.jpeg",
+    "restaurant_mobile": "",
+    "restaurant_name": "齐妈妈手工煎饺",
+    "restaurant_phone": "13355285159",
+    "restaurant_type": 0,
+    "scheme": "eleme://catering?restaurant_id=163013038",
+    "show_liangpiao_remind": 0,
+    "total_amount": 10.88
+}

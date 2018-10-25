@@ -1,0 +1,137 @@
+
+
+
+.mine-container{
+    header{
+        width: 100%;
+        height: 1.1733rem;
+        background-image: linear-gradient(90deg,#0af,#0085ff);
+        line-height: 1.1733rem;
+        position: relative;
+        h1{
+            display: block;
+            width: 0.96rem;
+            height: 100%;
+            font-size: 0.48rem;
+            color: #fff;
+            margin: 0 auto;
+        }
+        img{
+            position: absolute;
+            width: 0.32rem;
+            top: 0.3333rem;
+            left: 0.4rem;
+        }
+    }
+    .profile{
+        width: 100%;
+        height: 2.9333rem;
+        background-image: linear-gradient(90deg,#0af,#0085ff);
+        padding: 0.6667rem 0.4rem;
+        display: flex;
+        align-items: center;
+        img{
+            border-radius: 50%;
+        }
+        .profile-titile{
+            flex-grow: 1;
+            margin-left: 0.48rem;
+            a:nth-of-type(1){
+                font-size: 0.56rem;
+                font-weight: 700;
+                color: #fff;
+                margin-bottom: 0.2133rem;
+                text-decoration: none;
+            }
+            p:nth-of-type(1){
+                svg{
+                    fill: #fff;
+                    width: 1.866667vw;
+                    margin-right: .666667vw;
+                    height: 2.933333vw;
+                }
+                color: #fff;
+                display: flex;
+                align-items: center;
+            }
+           
+        }
+        svg:nth-of-type(1){
+            width: 2.666667vw;
+            height: 5.6vw;
+            fill: #fff;
+            
+        }
+    }
+    .entries{
+        width: 100%;
+        height: 2.24rem;
+        background-color: #fff;
+        border-bottom: 1px solid #ddd;
+        display: flex;
+        a{
+            width: 33.3333333%;
+            padding: 0.5rem 0;
+            border-right: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            text-decoration: none;
+            svg{
+                fill: orange;
+                width: 6.933333vw; 
+                height: 6.933333vw;
+            }
+            span{
+                color: #666;
+                font-weight: 700;
+            }
+        }
+        a:nth-of-type(2) svg{
+            fill:#ff5f3e;
+        }
+        a:nth-of-type(3) svg{
+            fill:#6ac20b;
+        }
+    }
+    .entrylink{
+        width: 100%;
+        height: 1.2rem;
+        margin-top: 0.2667rem;
+        background-color: #fff;
+        border-bottom: 1px solid #ddd;
+        display: flex;
+        align-items: center;
+        svg{
+            width: 4.8vw;
+            height: 4.8vw;
+            fill: #4aa5f0;
+            margin-left: 0.4rem;
+            margin-right: 0.3rem;
+        }
+        .right{
+            padding: 0.3733rem 0;
+            padding-right: 0.2667rem;
+            font-size: 0.4267rem;
+            display: flex;
+            flex-grow: 1;
+            color: #333;
+            align-items: center;
+            justify-content: space-between;
+            svg{
+                width: 2.666667vw;
+                height: 2.666667vw;
+                fill: #bbb;
+
+            }
+        }
+    }
+    .share{
+        margin-top:-1px;
+    }
+    .download{
+        margin-top:0px;
+    }
+
+}

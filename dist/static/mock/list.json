@@ -1,0 +1,4201 @@
+{
+    "items": [
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489769937,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"60\": {\"1\": 30.0, \"0\": 0}}",
+                        "description": "满60减30",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1618940282,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满减",
+                        "tips": "满60减30",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571203201,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571203129,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571199257,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1546539233,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522157369,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522148801,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522149345,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522123609,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522100009,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522098713,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522072417,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522071993,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518934794,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515864553,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515865337,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1498003593,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1497994105,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1497992697,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "8.3折",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 536121633,
+                        "name": "8.3折",
+                        "tips": "8.3折"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1492563433,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1481804969,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1481804481,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    }
+                ],
+                "address": "北京市东城区大雅宝胡同25号",
+                "authentic_id": 4363702029867305,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.67,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 237,
+                        "name": "地方小吃"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 13,
+                "float_minimum_order_amount": 0,
+                "folding_restaurant_brand": "窑鸡王",
+                "folding_restaurants": [
+                    {
+                        "distance": 5078,
+                        "id": 156530264,
+                        "name": "窑鸡王（东直门店）",
+                        "order_lead_time": 37,
+                        "scheme": "eleme://catering?restaurant_id=156530264",
+                        "type": 0
+                    },
+                    {
+                        "distance": 9685,
+                        "id": 159419460,
+                        "name": "窑鸡王（大钟寺店）",
+                        "order_lead_time": 43,
+                        "scheme": "eleme://catering?restaurant_id=159419460",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 158159505,
+                "image_path": "https://fuss10.elemecdn.com/e/3b/c538a166d73691d1e85a3857c12a2png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.915768,
+                "longitude": 116.432403,
+                "max_applied_quantity_per_order": -1,
+                "name": "窑鸡王（金宝街店）",
+                "next_business_time": "明天 10:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:30/05:00"
+                ],
+                "order_lead_time": 42,
+                "phone": "13436663889",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥13",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 13,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥13"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "美味中国，深圳窑鸡。餐厅电话:13436663889                      \n1.本公司窑鸡选用当日宰杀的鲜活走地鸡，通过400℃高温窑制而成。\n2.食材绿色健康，产品质量保障，不新鲜不好吃，可全额退款。\n3.我们的窑鸡现烤现卖，建议您提前45分钟预订。",
+                "rating": 4.8,
+                "rating_count": 89,
+                "recent_order_num": 394,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"3\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=158159505",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "地方小吃",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489828393,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"40\": {\"1\": 20.0, \"0\": 0}, \"70\": {\"1\": 35.0, \"0\": 0}}",
+                        "description": "满40减20，满70减35",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1623009097,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "德克士北京大额满减",
+                        "tips": "满40减20，满70减35",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1585065481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1580420769,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518337122,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518338554,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518338738,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518336730,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518337530,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1494833153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区北京站内第四候车室门口外侧",
+                "authentic_id": 5343722037699093,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.52,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 212,
+                        "name": "汉堡"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 3,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "德克士",
+                "folding_restaurants": [
+                    {
+                        "distance": 2527,
+                        "id": 282974,
+                        "name": "德克士(恒基店)",
+                        "order_lead_time": 42,
+                        "scheme": "eleme://catering?restaurant_id=282974",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 154884793,
+                "image_path": "https://fuss10.elemecdn.com/b/a4/37a1fb84929fbf4b251a53b213b86png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.905193,
+                "longitude": 116.428148,
+                "max_applied_quantity_per_order": -1,
+                "name": "德克士(北京站二店)",
+                "next_business_time": "明天 00:05",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:05/02:00",
+                    "07:00/23:50"
+                ],
+                "order_lead_time": 50,
+                "phone": "010-51019153",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥3",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 3,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥3"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "欢迎光临很高兴为您服务！由于近期活动力度大订单较多，3公里外的订单可能会有延迟，请耐心等待我们尽最快速度将餐品送到您的手中，还请您保持电话畅通，如遇关机停机无人接听等情况，导致餐品无法送出商家概不负责。感谢您的理解，祝您生活愉快！现因为餐厅原因，套餐里面里面炸鸡换闪电翅，敬请谅解",
+                "rating": 4.6,
+                "rating_count": 678,
+                "recent_order_num": 1787,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"3\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=154884793",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "汉堡",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额20元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 804580682,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"88\": {\"1\": 40.0, \"0\": 0}, \"128\": {\"1\": 50.0, \"0\": 0}, \"50\": {\"1\": 22.0, \"0\": 0}, \"278\": {\"1\": 70.0, \"0\": 0}, \"198\": {\"1\": 60.0, \"0\": 0}}",
+                        "description": "满50减22，满88减40，满128减50，满198减60，满278减70",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1596789185,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "王府井店",
+                        "tips": "满50减22，满88减40，满128减50，满198减60，满278减70",
+                        "type": 102
+                    }
+                ],
+                "address": "北京市东城区西总布胡同45号",
+                "authentic_id": 1383762020987455,
+                "business_info": "{}",
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 1.04,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 218,
+                        "name": "烧烤"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 20,
+                "has_story": false,
+                "id": 159162655,
+                "image_path": "https://fuss10.elemecdn.com/e/29/d56db683ecbc8d2ef89bbb7f4e4d4jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.912688,
+                "longitude": 116.418821,
+                "max_applied_quantity_per_order": -1,
+                "name": "望京小腰(王府井店)",
+                "next_business_time": "明天 18:10",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "18:10/02:00"
+                ],
+                "order_lead_time": 23,
+                "phone": "15311718638 15321532698",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥9",
+                    "extra_fee": 3,
+                    "is_extra": true,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥9"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "老店新开张，欢迎新老客户进店品尝，如有不足请您指出，我们会努力改进以更好的服务回报大家的厚爱。电话：18603196517同微",
+                "rating": 4.8,
+                "rating_count": 1384,
+                "recent_order_num": 1174,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=159162655",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "烧烤",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "25.0",
+                        "description": "新用户下单立减25元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1620169962,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "GKA新客立减25",
+                        "tips": "新用户下单立减25元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"60.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u90a3\\u4e48\\u5927\\u9e21\\u6392\\uff08\\u975e\\u65e9\\u9910\\uff09\"}}",
+                        "description": "满60元赠送那么大鸡排（非早餐）1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 576164282,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "品牌满赠",
+                        "tips": "满60元赠送那么大鸡排（非早餐）1份",
+                        "type": 106
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1621244522,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1610471930,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1579155985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575223593,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575216713,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575114361,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区灯口大街33号",
+                "authentic_id": 7333712025296288,
+                "bidding": "{\"core\":{\"index\":3,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"49f672a5244c4e638254b80fae490e67\\\",\\\"rankTime\\\":\\\"1539526286\\\",\\\"cityId\\\":\\\"3\\\"}\",\"target\":{\"restaurantId\":579988,\"weight\":180,\"probability\":0.0986500009894371},\"come_from\":0,\"next\":{\"restaurantId\":156068822,\"weight\":400,\"probability\":0.04148999974131584}}}",
+                "business_info": "{}",
+                "description": "9月28日-10月30日，麦辣鸡翅3只仅售10元，更有多款套餐优惠及“无辣不欢组合”（仅夜宵时段），搭配雪碧让你吃辣更爽！满赠活动与折扣活动和满减活动不同享。",
+                "distance": 9.57,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 212,
+                        "name": "汉堡"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 0,
+                "has_story": false,
+                "id": 579988,
+                "image_path": "https://fuss10.elemecdn.com/1/32/c75a72f674052473fb35b5c8ab1d7jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.918976239262,
+                "longitude": 116.414431019165,
+                "max_applied_quantity_per_order": -1,
+                "name": "北京麦当劳灯市口餐厅",
+                "next_business_time": "明天 00:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/04:45",
+                    "05:15/10:15",
+                    "10:30/23:55"
+                ],
+                "order_lead_time": 34,
+                "phone": "4000517117",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥9",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥9"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "9月28日-10月30日，麦辣鸡翅3只仅售10元，更有多款套餐优惠及“无辣不欢组合”（仅夜宵时段），搭配雪碧让你吃辣更爽！满赠活动与折扣活动和满减活动不同享。",
+                "rating": 4.8,
+                "rating_count": 913,
+                "recent_order_num": 4058,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    },
+                    {
+                        "name": "回头客多"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=579988",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "汉堡",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 808880778,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"80\": {\"1\": 17.0, \"0\": 0}, \"200\": {\"1\": 45.0, \"0\": 0}, \"100\": {\"1\": 25.0, \"0\": 0}, \"150\": {\"1\": 40.0, \"0\": 0}, \"38\": {\"1\": 15.0, \"0\": 0}}",
+                        "description": "满38减15，满80减17，满100减25，满150减40，满200减45",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1609323241,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满38减15，满80减17，满100减25，满150减40，满200减45",
+                        "type": 102
+                    },
+                    {
+                        "description": "超值换购",
+                        "icon_color": "f1884f",
+                        "icon_name": "换",
+                        "id": 1434250793,
+                        "name": "超值换购",
+                        "tips": "超值换购"
+                    },
+                    {
+                        "attribute": "{\"88.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u6cb9\\u9165\\u70e7\\u997c\"}}",
+                        "description": "满88元赠送油酥烧饼1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 331660970,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户首次下单满88立减17元",
+                        "tips": "满88元赠送油酥烧饼1份",
+                        "type": 106
+                    }
+                ],
+                "address": "北京市宣武区粮食店街23号",
+                "authentic_id": 8373782023908822,
+                "bidding": "{\"core\":{\"index\":4,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"49f672a5244c4e638254b80fae490e67\\\",\\\"rankTime\\\":\\\"1539526286\\\",\\\"cityId\\\":\\\"3\\\"}\",\"target\":{\"restaurantId\":156068822,\"weight\":400,\"probability\":0.04148999974131584},\"come_from\":0,\"next\":{\"restaurantId\":167569458,\"weight\":360,\"probability\":0.03832000121474266}}}",
+                "business_info": "{}",
+                "description": "",
+                "distance": 3.06,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 263,
+                        "name": "其他菜系"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 8.5,
+                "float_minimum_order_amount": 20,
+                "has_story": false,
+                "id": 156068822,
+                "image_path": "https://fuss10.elemecdn.com/d/0f/de4eab5d59a4d81c50627acc1d549jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.894827,
+                "longitude": 116.397708,
+                "max_applied_quantity_per_order": -1,
+                "name": "聚盈家常菜",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/23:40"
+                ],
+                "order_lead_time": 46,
+                "phone": "17777814948 13260206023",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥8.5",
+                    "extra_fee": 3.5,
+                    "is_extra": true,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 8.5,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥8.5"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "由于本店机器损坏本店暂无发票，我们向顾客承诺必须的用新鲜的食材做量大实惠的菜品，如有特殊口味一定要备注好打到您满意的口味，如有什么问题可以拨打本人手机17777814948或13260206023，差评师和同行走远一点，春节正常营业，本店十分感谢您的大力支持和拥护。",
+                "rating": 4.3,
+                "rating_count": 537,
+                "recent_order_num": 1577,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=156068822",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "其他菜系",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 804568946,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"26\": {\"1\": 12.0, \"0\": 0}, \"35\": {\"1\": 15.0, \"0\": 0}, \"58\": {\"1\": 18.0, \"0\": 0}}",
+                        "description": "满26减12，满35减15，满58减18",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1592455401,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满26减12，满35减15，满58减18",
+                        "type": 102
+                    }
+                ],
+                "address": "北京市东城区珠市口东大街19号1层103室",
+                "authentic_id": 6353712033273398,
+                "business_info": "{}",
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 3.34,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 214,
+                        "name": "麻辣烫"
+                    }
+                ],
+                "float_delivery_fee": 7,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "张亮麻辣烫",
+                "folding_restaurants": [
+                    {
+                        "distance": 17520,
+                        "id": 150142239,
+                        "name": "张亮麻辣烫（台湾街店）",
+                        "order_lead_time": 25,
+                        "scheme": "eleme://catering?restaurant_id=150142239",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 150052298,
+                "image_path": "https://fuss10.elemecdn.com/4/ab/028020d3a7829764f352ce8737eeapng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.891966,
+                "longitude": 116.400139,
+                "max_applied_quantity_per_order": -1,
+                "name": "张亮麻辣烫（珠市口店）",
+                "next_business_time": "明天 09:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:30/24:00"
+                ],
+                "order_lead_time": 37,
+                "phone": "15010227597",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥7",
+                    "extra_fee": 2,
+                    "is_extra": true,
+                    "no_subsidy_fee": "¥10",
+                    "rules": [
+                        {
+                            "fee": 7,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥7"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 4.5,
+                "rating_count": 2302,
+                "recent_order_num": 1496,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=150052298",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "麻辣烫",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489857577,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"168\": {\"1\": 40.0, \"0\": 0}, \"99\": {\"1\": 30.0, \"0\": 0}, \"39\": {\"1\": 20.0, \"0\": 0}}",
+                        "description": "满39减20，满99减30，满168减40",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1605011857,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满39减20，满99减30，满168减40",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1606181481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1601643921,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1601643905,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1491136049,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1491136081,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    }
+                ],
+                "address": "北京市朝阳区东大桥路8号院2号楼2层1202",
+                "authentic_id": 1363782021370824,
+                "business_info": "{}",
+                "description": "",
+                "distance": 4.69,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 245,
+                        "name": "水果"
+                    }
+                ],
+                "float_delivery_fee": 8,
+                "float_minimum_order_amount": 50,
+                "has_story": false,
+                "id": 166955624,
+                "image_path": "https://fuss10.elemecdn.com/7/88/3cc6413daeff55beb8b8bd4397055png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.919064,
+                "longitude": 116.451942,
+                "max_applied_quantity_per_order": -1,
+                "name": "果送(鲜果切店)",
+                "next_business_time": "明天 10:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/23:00"
+                ],
+                "order_lead_time": 42,
+                "phone": "15313157798",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥8",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 8,
+                            "price": 50
+                        }
+                    ],
+                    "tips": "配送费¥8"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 4.8,
+                "rating_count": 205,
+                "recent_order_num": 467,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"29\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=166955624",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "水果",
+                        "type": 1
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 809167826,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"100\": {\"1\": 50.0, \"0\": 0}, \"20\": {\"1\": 10.0, \"0\": 0}, \"70\": {\"1\": 35.0, \"0\": 0}, \"55\": {\"1\": 25.0, \"0\": 0}}",
+                        "description": "满20减10，满55减25，满70减35，满100减50",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1260836065,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满20减10，满55减25，满70减35，满100减50",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1233128001,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1233127497,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284649,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284657,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284673,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284665,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1544681369,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1554525321,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1566129353,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1544680249,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1541143985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515244625,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1429043081,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1212807473,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413745753,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1415249833,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413749481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413462273,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456161,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456121,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456129,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456137,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456145,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450177,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450185,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450161,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450145,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450169,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1397687041,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1397686385,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1396193049,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1387167441,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355849505,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355845233,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825545,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825553,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825577,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825561,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825569,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817921,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817929,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817913,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1135120769,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1337199081,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312201529,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195001,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195041,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195009,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195049,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195025,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195033,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195057,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1293419905,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336305,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336297,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336313,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278601,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278585,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278593,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278633,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278641,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278657,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278609,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278617,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278625,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257078529,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019905,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019913,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019921,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019881,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019865,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019849,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019857,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019889,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019873,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019897,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257001953,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1235167985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1229371417,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892233,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892241,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892249,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区南竹杆胡同2号1幢1层30125",
+                "authentic_id": 4383732033134215,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.02,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 241,
+                        "name": "甜品"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 25,
+                "has_story": false,
+                "id": 1357815,
+                "image_path": "https://fuss10.elemecdn.com/8/c9/f86e8a367e686a158f047fe62ebbcpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.925547,
+                "longitude": 116.402994,
+                "max_applied_quantity_per_order": -1,
+                "name": "榴莲千层盒子",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/22:30"
+                ],
+                "order_lead_time": 31,
+                "phone": "010-56070860",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 25
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "【致有缘的亲】\n 在这里，原材料请您放心，均是优质进口，纯天然淡奶油，自然风味，而非香精。口味或许每个人的喜好不同，在这里，我们有清甜也有浓郁的风味。\n 【关于配送】 \n亲爱滴！蛋糕是接单后现做，第三方平台配送，根据距离1-3小时送达。\n【温馨提示】 \n现草莓因季节关系，普遍鲜草莓偏酸！",
+                "rating": 4.8,
+                "rating_count": 1961,
+                "recent_order_num": 5683,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"18\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    },
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=1357815",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "甜品",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    },
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额100元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489769937,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"60\": {\"1\": 30.0, \"0\": 0}}",
+                        "description": "满60减30",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1618940282,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满减",
+                        "tips": "满60减30",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571203201,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571203129,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1571199257,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1546539233,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522157369,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522148801,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522149345,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522123609,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522100009,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522098713,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522072417,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1522071993,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518934794,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515864553,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515865337,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1498003593,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1497994105,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1497992697,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "8.3折",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 536121633,
+                        "name": "8.3折",
+                        "tips": "8.3折"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1492563433,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1481804969,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1481804481,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    }
+                ],
+                "address": "北京市东城区大雅宝胡同25号",
+                "authentic_id": 4363702029867305,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.67,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 237,
+                        "name": "地方小吃"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 13,
+                "float_minimum_order_amount": 0,
+                "folding_restaurant_brand": "窑鸡王",
+                "folding_restaurants": [
+                    {
+                        "distance": 5078,
+                        "id": 156530264,
+                        "name": "窑鸡王（东直门店）",
+                        "order_lead_time": 37,
+                        "scheme": "eleme://catering?restaurant_id=156530264",
+                        "type": 0
+                    },
+                    {
+                        "distance": 9685,
+                        "id": 159419460,
+                        "name": "窑鸡王（大钟寺店）",
+                        "order_lead_time": 43,
+                        "scheme": "eleme://catering?restaurant_id=159419460",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 158159505,
+                "image_path": "https://fuss10.elemecdn.com/e/3b/c538a166d73691d1e85a3857c12a2png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.915768,
+                "longitude": 116.432403,
+                "max_applied_quantity_per_order": -1,
+                "name": "窑鸡王（金宝街店）",
+                "next_business_time": "明天 10:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:30/05:00"
+                ],
+                "order_lead_time": 42,
+                "phone": "13436663889",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥13",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 13,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥13"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "美味中国，深圳窑鸡。餐厅电话:13436663889                      \n1.本公司窑鸡选用当日宰杀的鲜活走地鸡，通过400℃高温窑制而成。\n2.食材绿色健康，产品质量保障，不新鲜不好吃，可全额退款。\n3.我们的窑鸡现烤现卖，建议您提前45分钟预订。",
+                "rating": 4.8,
+                "rating_count": 89,
+                "recent_order_num": 394,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"3\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=158159505",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "地方小吃",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489828393,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"40\": {\"1\": 20.0, \"0\": 0}, \"70\": {\"1\": 35.0, \"0\": 0}}",
+                        "description": "满40减20，满70减35",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1623009097,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "德克士北京大额满减",
+                        "tips": "满40减20，满70减35",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1585065481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1580420769,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518337122,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518338554,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518338738,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518336730,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1518337530,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1494833153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区北京站内第四候车室门口外侧",
+                "authentic_id": 5343722037699093,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.52,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 212,
+                        "name": "汉堡"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 3,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "德克士",
+                "folding_restaurants": [
+                    {
+                        "distance": 2527,
+                        "id": 282974,
+                        "name": "德克士(恒基店)",
+                        "order_lead_time": 42,
+                        "scheme": "eleme://catering?restaurant_id=282974",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 154884793,
+                "image_path": "https://fuss10.elemecdn.com/b/a4/37a1fb84929fbf4b251a53b213b86png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.905193,
+                "longitude": 116.428148,
+                "max_applied_quantity_per_order": -1,
+                "name": "德克士(北京站二店)",
+                "next_business_time": "明天 00:05",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:05/02:00",
+                    "07:00/23:50"
+                ],
+                "order_lead_time": 50,
+                "phone": "010-51019153",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥3",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 3,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥3"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "欢迎光临很高兴为您服务！由于近期活动力度大订单较多，3公里外的订单可能会有延迟，请耐心等待我们尽最快速度将餐品送到您的手中，还请您保持电话畅通，如遇关机停机无人接听等情况，导致餐品无法送出商家概不负责。感谢您的理解，祝您生活愉快！现因为餐厅原因，套餐里面里面炸鸡换闪电翅，敬请谅解",
+                "rating": 4.6,
+                "rating_count": 678,
+                "recent_order_num": 1787,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"3\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=154884793",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "汉堡",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额20元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 804580682,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"88\": {\"1\": 40.0, \"0\": 0}, \"128\": {\"1\": 50.0, \"0\": 0}, \"50\": {\"1\": 22.0, \"0\": 0}, \"278\": {\"1\": 70.0, \"0\": 0}, \"198\": {\"1\": 60.0, \"0\": 0}}",
+                        "description": "满50减22，满88减40，满128减50，满198减60，满278减70",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1596789185,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "王府井店",
+                        "tips": "满50减22，满88减40，满128减50，满198减60，满278减70",
+                        "type": 102
+                    }
+                ],
+                "address": "北京市东城区西总布胡同45号",
+                "authentic_id": 1383762020987455,
+                "business_info": "{}",
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 1.04,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 218,
+                        "name": "烧烤"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 20,
+                "has_story": false,
+                "id": 159162655,
+                "image_path": "https://fuss10.elemecdn.com/e/29/d56db683ecbc8d2ef89bbb7f4e4d4jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.912688,
+                "longitude": 116.418821,
+                "max_applied_quantity_per_order": -1,
+                "name": "望京小腰(王府井店)",
+                "next_business_time": "明天 18:10",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "18:10/02:00"
+                ],
+                "order_lead_time": 23,
+                "phone": "15311718638 15321532698",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥9",
+                    "extra_fee": 3,
+                    "is_extra": true,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥9"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "老店新开张，欢迎新老客户进店品尝，如有不足请您指出，我们会努力改进以更好的服务回报大家的厚爱。电话：18603196517同微",
+                "rating": 4.8,
+                "rating_count": 1384,
+                "recent_order_num": 1174,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=159162655",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "烧烤",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "25.0",
+                        "description": "新用户下单立减25元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1620169962,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "GKA新客立减25",
+                        "tips": "新用户下单立减25元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"60.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u90a3\\u4e48\\u5927\\u9e21\\u6392\\uff08\\u975e\\u65e9\\u9910\\uff09\"}}",
+                        "description": "满60元赠送那么大鸡排（非早餐）1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 576164282,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "品牌满赠",
+                        "tips": "满60元赠送那么大鸡排（非早餐）1份",
+                        "type": 106
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1621244522,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1610471930,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1579155985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575223593,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575216713,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1575114361,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区灯口大街33号",
+                "authentic_id": 7333712025296288,
+                "bidding": "{\"core\":{\"index\":3,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"49f672a5244c4e638254b80fae490e67\\\",\\\"rankTime\\\":\\\"1539526286\\\",\\\"cityId\\\":\\\"3\\\"}\",\"target\":{\"restaurantId\":579988,\"weight\":180,\"probability\":0.0986500009894371},\"come_from\":0,\"next\":{\"restaurantId\":156068822,\"weight\":400,\"probability\":0.04148999974131584}}}",
+                "business_info": "{}",
+                "description": "9月28日-10月30日，麦辣鸡翅3只仅售10元，更有多款套餐优惠及“无辣不欢组合”（仅夜宵时段），搭配雪碧让你吃辣更爽！满赠活动与折扣活动和满减活动不同享。",
+                "distance": 9.57,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 212,
+                        "name": "汉堡"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 0,
+                "has_story": false,
+                "id": 579988,
+                "image_path": "https://fuss10.elemecdn.com/1/32/c75a72f674052473fb35b5c8ab1d7jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.918976239262,
+                "longitude": 116.414431019165,
+                "max_applied_quantity_per_order": -1,
+                "name": "北京麦当劳灯市口餐厅",
+                "next_business_time": "明天 00:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/04:45",
+                    "05:15/10:15",
+                    "10:30/23:55"
+                ],
+                "order_lead_time": 34,
+                "phone": "4000517117",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥9",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥9"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "9月28日-10月30日，麦辣鸡翅3只仅售10元，更有多款套餐优惠及“无辣不欢组合”（仅夜宵时段），搭配雪碧让你吃辣更爽！满赠活动与折扣活动和满减活动不同享。",
+                "rating": 4.8,
+                "rating_count": 913,
+                "recent_order_num": 4058,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    },
+                    {
+                        "name": "回头客多"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=579988",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "汉堡",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 808880778,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"80\": {\"1\": 17.0, \"0\": 0}, \"200\": {\"1\": 45.0, \"0\": 0}, \"100\": {\"1\": 25.0, \"0\": 0}, \"150\": {\"1\": 40.0, \"0\": 0}, \"38\": {\"1\": 15.0, \"0\": 0}}",
+                        "description": "满38减15，满80减17，满100减25，满150减40，满200减45",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1609323241,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满38减15，满80减17，满100减25，满150减40，满200减45",
+                        "type": 102
+                    },
+                    {
+                        "description": "超值换购",
+                        "icon_color": "f1884f",
+                        "icon_name": "换",
+                        "id": 1434250793,
+                        "name": "超值换购",
+                        "tips": "超值换购"
+                    },
+                    {
+                        "attribute": "{\"88.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u6cb9\\u9165\\u70e7\\u997c\"}}",
+                        "description": "满88元赠送油酥烧饼1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 331660970,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户首次下单满88立减17元",
+                        "tips": "满88元赠送油酥烧饼1份",
+                        "type": 106
+                    }
+                ],
+                "address": "北京市宣武区粮食店街23号",
+                "authentic_id": 8373782023908822,
+                "bidding": "{\"core\":{\"index\":4,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"49f672a5244c4e638254b80fae490e67\\\",\\\"rankTime\\\":\\\"1539526286\\\",\\\"cityId\\\":\\\"3\\\"}\",\"target\":{\"restaurantId\":156068822,\"weight\":400,\"probability\":0.04148999974131584},\"come_from\":0,\"next\":{\"restaurantId\":167569458,\"weight\":360,\"probability\":0.03832000121474266}}}",
+                "business_info": "{}",
+                "description": "",
+                "distance": 3.06,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 263,
+                        "name": "其他菜系"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 8.5,
+                "float_minimum_order_amount": 20,
+                "has_story": false,
+                "id": 156068822,
+                "image_path": "https://fuss10.elemecdn.com/d/0f/de4eab5d59a4d81c50627acc1d549jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.894827,
+                "longitude": 116.397708,
+                "max_applied_quantity_per_order": -1,
+                "name": "聚盈家常菜",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/23:40"
+                ],
+                "order_lead_time": 46,
+                "phone": "17777814948 13260206023",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥8.5",
+                    "extra_fee": 3.5,
+                    "is_extra": true,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 8.5,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥8.5"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "由于本店机器损坏本店暂无发票，我们向顾客承诺必须的用新鲜的食材做量大实惠的菜品，如有特殊口味一定要备注好打到您满意的口味，如有什么问题可以拨打本人手机17777814948或13260206023，差评师和同行走远一点，春节正常营业，本店十分感谢您的大力支持和拥护。",
+                "rating": 4.3,
+                "rating_count": 537,
+                "recent_order_num": 1577,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=156068822",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "其他菜系",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 804568946,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"26\": {\"1\": 12.0, \"0\": 0}, \"35\": {\"1\": 15.0, \"0\": 0}, \"58\": {\"1\": 18.0, \"0\": 0}}",
+                        "description": "满26减12，满35减15，满58减18",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1592455401,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满26减12，满35减15，满58减18",
+                        "type": 102
+                    }
+                ],
+                "address": "北京市东城区珠市口东大街19号1层103室",
+                "authentic_id": 6353712033273398,
+                "business_info": "{}",
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 3.34,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 214,
+                        "name": "麻辣烫"
+                    }
+                ],
+                "float_delivery_fee": 7,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "张亮麻辣烫",
+                "folding_restaurants": [
+                    {
+                        "distance": 17520,
+                        "id": 150142239,
+                        "name": "张亮麻辣烫（台湾街店）",
+                        "order_lead_time": 25,
+                        "scheme": "eleme://catering?restaurant_id=150142239",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 150052298,
+                "image_path": "https://fuss10.elemecdn.com/4/ab/028020d3a7829764f352ce8737eeapng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.891966,
+                "longitude": 116.400139,
+                "max_applied_quantity_per_order": -1,
+                "name": "张亮麻辣烫（珠市口店）",
+                "next_business_time": "明天 09:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:30/24:00"
+                ],
+                "order_lead_time": 37,
+                "phone": "15010227597",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥7",
+                    "extra_fee": 2,
+                    "is_extra": true,
+                    "no_subsidy_fee": "¥10",
+                    "rules": [
+                        {
+                            "fee": 7,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥7"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 4.5,
+                "rating_count": 2302,
+                "recent_order_num": 1496,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=150052298",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "麻辣烫",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1489857577,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"168\": {\"1\": 40.0, \"0\": 0}, \"99\": {\"1\": 30.0, \"0\": 0}, \"39\": {\"1\": 20.0, \"0\": 0}}",
+                        "description": "满39减20，满99减30，满168减40",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1605011857,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满39减20，满99减30，满168减40",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1606181481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1601643921,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1601643905,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1491136049,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    },
+                    {
+                        "description": "单品折扣",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1491136081,
+                        "name": "单品折扣",
+                        "tips": "单品折扣"
+                    }
+                ],
+                "address": "北京市朝阳区东大桥路8号院2号楼2层1202",
+                "authentic_id": 1363782021370824,
+                "business_info": "{}",
+                "description": "",
+                "distance": 4.69,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 245,
+                        "name": "水果"
+                    }
+                ],
+                "float_delivery_fee": 8,
+                "float_minimum_order_amount": 50,
+                "has_story": false,
+                "id": 166955624,
+                "image_path": "https://fuss10.elemecdn.com/7/88/3cc6413daeff55beb8b8bd4397055png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.919064,
+                "longitude": 116.451942,
+                "max_applied_quantity_per_order": -1,
+                "name": "果送(鲜果切店)",
+                "next_business_time": "明天 10:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/23:00"
+                ],
+                "order_lead_time": 42,
+                "phone": "15313157798",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥8",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 8,
+                            "price": 50
+                        }
+                    ],
+                    "tips": "配送费¥8"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 4.8,
+                "rating_count": 205,
+                "recent_order_num": 467,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"29\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=166955624",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "水果",
+                        "type": 1
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 809167826,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"100\": {\"1\": 50.0, \"0\": 0}, \"20\": {\"1\": 10.0, \"0\": 0}, \"70\": {\"1\": 35.0, \"0\": 0}, \"55\": {\"1\": 25.0, \"0\": 0}}",
+                        "description": "满20减10，满55减25，满70减35，满100减50",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1260836065,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满20减10，满55减25，满70减35，满100减50",
+                        "type": 102
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1233128001,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1233127497,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284649,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284657,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284673,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1591284665,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1544681369,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1554525321,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1566129353,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1544680249,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1541143985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1515244625,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1429043081,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1212807473,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413745753,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1415249833,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413749481,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413462273,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456161,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456121,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456129,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456137,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413456145,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450177,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450185,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450161,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450153,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450145,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1413450169,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1397687041,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1397686385,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1396193049,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1387167441,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355849505,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355845233,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825545,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825553,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825577,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825561,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355825569,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817921,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817929,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1355817913,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1135120769,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1337199081,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312201529,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195001,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195041,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195009,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195049,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195025,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195033,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1312195057,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1293419905,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336305,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336297,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257336313,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278601,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278585,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278593,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278633,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278641,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278657,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278609,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278617,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257278625,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257078529,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019905,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019913,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019921,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019881,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019865,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019849,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019857,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019889,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019873,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257019897,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1257001953,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1235167985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1229371417,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892233,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892241,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1189892249,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "北京市东城区南竹杆胡同2号1幢1层30125",
+                "authentic_id": 4383732033134215,
+                "business_info": "{}",
+                "description": "",
+                "distance": 2.02,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 241,
+                        "name": "甜品"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 25,
+                "has_story": false,
+                "id": 1357815,
+                "image_path": "https://fuss10.elemecdn.com/8/c9/f86e8a367e686a158f047fe62ebbcpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.925547,
+                "longitude": 116.402994,
+                "max_applied_quantity_per_order": -1,
+                "name": "榴莲千层盒子",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/22:30"
+                ],
+                "order_lead_time": 31,
+                "phone": "010-56070860",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 25
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "【致有缘的亲】\n 在这里，原材料请您放心，均是优质进口，纯天然淡奶油，自然风味，而非香精。口味或许每个人的喜好不同，在这里，我们有清甜也有浓郁的风味。\n 【关于配送】 \n亲爱滴！蛋糕是接单后现做，第三方平台配送，根据距离1-3小时送达。\n【温馨提示】 \n现草莓因季节关系，普遍鲜草莓偏酸！",
+                "rating": 4.8,
+                "rating_count": 1961,
+                "recent_order_num": 5683,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"18\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    },
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=1357815",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "甜品",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    },
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额100元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        }
+    ],
+    "meta": {
+        "rank_id": "49f672a5244c4e638254b80fae490e67"
+    }
+}
